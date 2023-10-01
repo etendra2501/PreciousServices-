@@ -128,3 +128,9 @@
 - Place: Kharagpur, West Bengal, India
 - Bio: ECE Student | React Developer | Competitive Programmer
 - GitHub: [Ayan Ghosh](https://github.com/Ayan726)
+
+#### Name: [Etendra Verma](https://github.com/etendra2501)
+- Place: Lucknow, Uttar Pradesh, India 
+- Bio: Data Engineer | Researcher
+- GitHub: [Etendra Verma](https://github.com/etendra2501)
+
